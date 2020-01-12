@@ -1,0 +1,28 @@
+body{
+	margin-top: 100px;
+	padding: 10px;
+	border: 1px solid red;
+	color: purple;
+	}
+
+main{
+	border: 5px solid blue;
+	padding:40px;
+}
+
+section, article{
+	border: 1px solid black;
+	padding: 100px;
+	margin: 50px;
+}
+
+section div, article div{
+	border: 2px solid green;
+	padding: 30px;
+	background-color:red;
+	margin:60px;
+}
+
+body section div{
+	background-color: yellow;
+}
